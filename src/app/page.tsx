@@ -175,7 +175,7 @@ export default function LandingPage() {
         <ContactFaq
           ctaTitle="Questions? We're Here to Help"
           ctaDescription="Reach out to learn more about our programs, discuss your child's needs, or explore partnership opportunities. Our compassionate team is ready to support you."
-          ctaButton={{ text: "Get in Touch", href: "mailto:nanjiloasismrc@gmail.com" }}
+          ctaButton={{ text: "Ask About Programs", href: "mailto:nanjiloasismrc@gmail.com" }}
           ctaIcon={MessageCircle}
           useInvertedBackground={false}
           animationType="slide-up"
